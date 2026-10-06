@@ -1,0 +1,15 @@
+{
+  "api": "Harmonia Hall fundraising API (synthetic data)",
+  "version": "v1",
+  "page_size": 500,
+  "entities": [
+    "campaigns",
+    "donors",
+    "funds",
+    "gifts"
+  ],
+  "load_dates": [
+    "2026-09-27"
+  ],
+  "first_page": "{entity}/{load_date}/page-1.json"
+}
