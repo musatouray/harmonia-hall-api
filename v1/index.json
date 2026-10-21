@@ -1,15 +1,14 @@
 {
-  "api": "Harmonia Hall fundraising API (synthetic data)",
+  "api": "Harmonia Hall Tessitura REST API mock (synthetic data)",
   "version": "v1",
   "page_size": 500,
   "entities": [
-    "campaigns",
-    "donors",
-    "funds",
-    "gifts"
+    "campaign",
+    "contribution",
+    "fund"
   ],
   "load_dates": [
-    "2026-09-27"
+    "2026-10-10"
   ],
   "first_page": "{entity}/{load_date}/page-1.json"
 }
